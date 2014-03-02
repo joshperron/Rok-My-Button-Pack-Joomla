@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="editors-xtd">
+	<name>Button - RemoteSite</name>
+	<author>MoveTwice</author>
+	<creationDate>January 2009</creationDate>
+	<copyright>Copyright (C) 2008 - 2012 Daily Fidelity, LLC. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>admin@dailyfidelity.com</authorEmail>
+	<authorUrl>www.dailyfidelity.com</authorUrl>
+	<version>3.00</version>
+	<description>Inserts the plugin code for Rokbox Button Remote Website</description>
+	<files>
+		<filename plugin="myremotesite">myremotesite.php</filename>
+	</files>
+	<params />
+</install>

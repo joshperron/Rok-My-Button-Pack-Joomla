@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="1.5" type="plugin" group="editors-xtd">
+	<name>Button - Thumbnail</name>
+	<author>MoveTwice</author>
+	<creationDate>January 2009</creationDate>
+	<copyright>Copyright (C) 2008 - 2012 Daily Fidelity, LLC. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorEmail>admin@dailyfidelity.com</authorEmail>
+	<authorUrl>www.dailyfidelity.com</authorUrl>
+	<version>3.0</version>
+	<description>Inserts the plugin code for Rokbox - Thumbnail</description>
+	<files>
+		<filename plugin="mythumbnail">mythumbnail.php</filename>
+	</files>
+	<params />
+</install>
